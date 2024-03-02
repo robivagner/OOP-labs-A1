@@ -1,1 +1,1 @@
-# POO-laboratoare-A1
+Vagner Robert din grupa A1
